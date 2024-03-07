@@ -1,0 +1,9 @@
+[book]
+authors = ["pin1yin1yu3yan2"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "Pin1Yin1"
+
+[preprocessor.katex]
+after = ["links"]
